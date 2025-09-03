@@ -1,0 +1,12 @@
+{
+  "name": "think",
+  "version": "1.0.0",
+  "description": "this is tool that is use for making your day to day value to convert it in variable to use it again and again",
+  "license": "ISC",
+  "author": "azimuddeen khan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "both": "cd server && code . && cd .. && cd client && code .  && cd .."
+  }
+}
